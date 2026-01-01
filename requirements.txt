@@ -1,0 +1,2 @@
+# Innspect Python Dependencies
+# (Currently uses standard libraries only, but this file triggers the isolated venv)

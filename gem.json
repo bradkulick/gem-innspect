@@ -1,0 +1,7 @@
+{
+  "name": "innspect",
+  "version": "1.1.0",
+  "description": "Smart anti-surveillance sweep for travelers.",
+  "author": "Bradford Kulick",
+  "python_dependencies": "requirements.txt"
+}
